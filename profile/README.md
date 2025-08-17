@@ -10,4 +10,4 @@ memory control and modernized straightforward syntax that is both useful for exp
 # Clarifications
 * This organization, and its members are the only entities able to modify the **REBORN Standard** (_**RS** for short_) \
   This said, any developer will be able to propose changes to the **Standard** once our website is finished.
-* [**C/REBORN**](github.com/reborn-lang/creborn) is currently the **only** official implementation of the **REBORN** programming language.
+* [**C/Reborn**](https://github.com/reborn-lang/creborn) is currently the **only** official implementation of the **REBORN** programming language.
