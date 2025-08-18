@@ -1,4 +1,4 @@
-<img width="700" height="175" alt="__github" src="https://github.com/user-attachments/assets/aeac007c-e69b-4bdd-9c6d-498ec9825446" />
+<img width="600" height="175" alt="__github" src="https://github.com/user-attachments/assets/ea3cb990-c42f-48ab-a385-fd0bb5f1528c" />
 
 # The REBORN Programming Language
 **Reborn** (_stylized in all caps_) is a general-purpose, statically typed, low-level programming language. \
