@@ -1,7 +1,7 @@
 <img width="600" height="175" alt="__github" src="https://github.com/user-attachments/assets/ea3cb990-c42f-48ab-a385-fd0bb5f1528c" />
 
 # The REBORN Programming Language
-**Reborn** (_stylized in all caps_) is a general-purpose, statically typed, low-level programming language. \
+**Reborn** (_stylized in all caps_) is a general-purpose, statically typed, _medium_-level programming language. \
 The **REBORN-lang** organization is actively working on making **REBORN** the best successor to [**C**](https://www.c-language.org/) thanks to low-level \
 memory control and modernized straightforward syntax that is both useful for experienced developers and easy for beginners.
 
