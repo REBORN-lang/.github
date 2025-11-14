@@ -18,4 +18,6 @@ The name REBORN and its variants (REBORN-lang, Reborn, etc.) are part of the off
 
 No fees or royalties are required to use REBORN or its materials for personal, educational, or non-commercial purposes. For commercial redistribution, attribution and license compliance are required.
 
-###### jstmax! : <jstmaxlol@disroot.org> & <maxwasmailed@proton.me>
+&nbsp;
+#### Members
+Lead maintainer → jstmax! : <jstmaxlol@disroot.org> & <maxwasmailed@proton.me>
