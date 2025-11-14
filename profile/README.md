@@ -17,3 +17,5 @@ All materials published under this organization on GitHub are released under ope
 The name REBORN and its variants (REBORN-lang, Reborn, etc.) are part of the official language identity. Derivative projects or forks must not use the REBORN name for their own versions or marketing purposes without explicit permission. Unauthorized use of the name may be considered infringement.
 
 No fees or royalties are required to use REBORN or its materials for personal, educational, or non-commercial purposes. For commercial redistribution, attribution and license compliance are required.
+
+###### jstmax! : <jstmaxlol@disroot.org> & <maxwasmailed@proton.me>
