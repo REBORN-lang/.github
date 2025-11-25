@@ -39,7 +39,7 @@ let b:current_syntax = "spp"
 `$ cd ..`
 - Navigate into `ftdetect/` with the same command as last time
 - Create a file named `spp.vim` and add the following contents to said file:
-```
+```vim
 au BufRead,BufNewFile *.spp set filetype=spp
 ```
 ### Done!
