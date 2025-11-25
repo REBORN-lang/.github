@@ -14,7 +14,7 @@ Welcome to this simple guide on how to use the [Neovim](https://neovim.io) synta
 - Create a file named `spp.vim` with the following command: \
 `$ touch spp.vim` \
 And add the following contents to said file:
-```
+```lua
 " syntax/spp.vim — syntax highlighting for .spp (sugar++)
 
 if exists("b:current_syntax")
@@ -26,7 +26,7 @@ runtime! syntax/cpp.vim
 
 " sugar++ keywords
 syntax keyword sugarppKeyword main let include
-syntax keyword sugarppCtrl if else while for switch
+syntax keyword sugarppCtrl if else elif while for switch
 
 " highlight sugar++ keywords
 highlight link sugarppKeyword Statement
