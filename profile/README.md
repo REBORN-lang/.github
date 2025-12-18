@@ -8,7 +8,7 @@ low-level memory control and modernized, straightforward syntax that is both com
 ---
 
 # Legal note
-This organization, and its members, are the only entities authorized to modify the REBORN Standard (RS). That said, any developer will be able to propose changes to the Standard once our website is finished.
+This organization, and its members, are the only entities authorized to modify the [REBORN Standard](https://reborn-lang.github.io/documents/standard/) (RS). That said, any developer will be able to propose changes to the Standard once our website is finished.
 
 [**C/Reborn**](https://github.com/reborn-lang/creborn) is currently the only official implementation of the **REBORN programming language**.
 
