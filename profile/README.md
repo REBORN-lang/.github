@@ -3,7 +3,7 @@
 # The REBORN Programming Language
 **Reborn** (_stylized in all caps_) is a general-purpose, statically typed (_supports type inference_), _medium_-level programming language. \
 The **REBORN-lang** organization is actively working on making **REBORN** the best modern successor to [**C**](https://www.c-language.org/) thanks to \
-low-level memory control and modernized, straightforward syntax that is both comprehensible for \ experienced **C** and **C++** developers and easy for beginners.
+low-level memory control and modernized, straightforward syntax that is both comprehensible for experienced **C** and **C++** developers and easy for beginners.
 
 ---
 
