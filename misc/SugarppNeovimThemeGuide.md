@@ -43,3 +43,5 @@ let b:current_syntax = "spp"
 au BufRead,BufNewFile *.spp set filetype=spp
 ```
 ### Done!
+
+###### optionally you can also enable it for `*.sc` files.
