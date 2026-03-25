@@ -20,4 +20,4 @@ No fees or royalties are required to use REBORN or its materials for personal, e
 
 &nbsp;
 #### Members
-\[Founder and lead maintainer\] - czjstmax : <jstmaxlol@disroot.org>, <maxwasmailed@proton.me>
+\[Founder and lead maintainer\] - czjstmax : <jstmaxlol@disroot.org>
